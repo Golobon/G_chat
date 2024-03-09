@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">G_chat</string>
+    <string name="send_message">Отправить сообщение</string>
+    <string name="enter_text">Введите сообщение...</string>
+    <string name="mesage_text">Текст сообщения...</string>
+    <string name="user_name">Имя пользователя...</string>
+    <string name="message_time">16:25</string>
 </resources>
