@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.G_chat"
         tools:targetApi="31">
+
+        <activity
+            android:name=".SignInActivity"
+            android:exported="true">
+        </activity>
+
         <activity
             android:name=".MainActivity"
             android:exported="true">

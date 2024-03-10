@@ -5,4 +5,5 @@
     <string name="mesage_text">Текст сообщения...</string>
     <string name="user_name">Имя пользователя...</string>
     <string name="message_time">16:25</string>
+    <string name="default_web_client_id" translatable="false">webClientId.apps.googleusercontent.com</string>
 </resources>
