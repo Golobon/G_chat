@@ -14,5 +14,3 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "G_chat"
-include(":app")
- 
